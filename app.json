@@ -49,11 +49,11 @@
       },      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
-         "value": "1118936839"
+         "value": "1130863968"
       },
       "OWNER_NAME": {
          "description": "Your Name",
-         "value": "✰Sᴀͥʀᴀͣᴛͫʜ™️✰"
+         "value": "✰NIKHIL✰"
       },
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
@@ -75,7 +75,7 @@
       },
        "START_IMG": {
          "description": "Image shows when hit /start",
-         "value": "https://telegra.ph/file/511ad504656e712b88235.jpg"    
+         "value": "https://telegra.ph/file/cef585e5492e1c7592ce6.jpg"    
       },
       "API_OPENWEATHER": {
          "description": "Required for weather information",
@@ -154,7 +154,7 @@
     }
   ],
    "name": "Cinderella",
-   "repository": "https://github.com/Sur-vivor/CiderellaProBot",
+   "repository": "https://github.com/nikhil34823482/CiderellaProBot",
    "success_url": "https://telegram.dog/CinderellaProBot",
    "logo": "https://telegra.ph/file/511ad504656e712b88235.jpg"
 }
